@@ -1,0 +1,43 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		" !\"#$%&'()*+,-./",
+		"0123456789:;<=>?",
+		"@ABCDEFGHIJKLMNO",
+		"PQRSTUVWXYZ[\\]^_",
+		"`abcdefghijklmno",
+		"pqrstuvwxyz{|}~∎"
+	],
+	"glyph-color": "black",
+	"glyph-width": 6,
+	"glyph-height": 8,
+	"glyph-ofs-x": 1,
+	"glyph-ofs-y": 1,
+	"glyph-sep-x": 1,
+	"glyph-sep-y": 1,
+	"glyph-base-x": 0,
+	"glyph-baseline": 9,
+	"glyph-spacing": 1,
+	"font-is-mono": false,
+	"font-em-square": 1024,
+	"font-line-gap": 0,
+	"font-px-size": 128,
+	"font-ascend": 768,
+	"font-descend": -256,
+	"font-name": "Simxel",
+	"font-author": "Ivan Ivchenko",
+	"font-copy": "(c) 2020",
+	"font-version": "v0.1",
+	"font-desc": "Simple pixel font for simple pixel art!",
+	"font-license": "MIT",
+	"font-license-url": "https://github.com/iivchenko/pixel-art/blob/master/LICENSE",
+	"font-sample-text": "Hello from pixel font!",
+	"font-preview-text": [
+		"Good or good, yes this is ver y good ",
+		"ggggg :) hello :)",
+		"",
+		"",
+		"(1 + 2 : 3: ) * 3 = 9"
+	]
+}
